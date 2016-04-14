@@ -1,10 +1,10 @@
-# tachyons-links 2.0.3
+# tachyons-links 3.0.1
 
 Performance based css module.
 
 #### Stats
 
-138 | 6 | 6
+148 | 6 | 7
 ---|---|---
 bytes | selectors | declarations
 
@@ -61,7 +61,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
    LINKS
 
 */
-.link { text-decoration: none; transition: color .15s ease-in; }
+.link { cursor: pointer; text-decoration: none; transition: color .15s ease-in; }
 .link:link, .link:visited { transition: color .15s ease-in; }
 .link:hover { transition: color .15s ease-in; }
 .link:active { transition: color .15s ease-in; }

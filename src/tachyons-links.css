@@ -5,6 +5,7 @@
 */
 
 .link {
+  cursor: pointer;
   text-decoration: none;
   transition: color .15s ease-in;
 }
